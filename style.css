@@ -1,0 +1,58 @@
+body {
+    background-color: aliceblue;
+    font-size: larger;
+    text-align: center;
+    margin:0;
+    padding: 20px;
+}
+
+#eggchanphoto{
+    size: ;
+    width: auto;
+    height: auto;
+    padding:  10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    border-radius: 2%;
+    background-color:cornsilk;
+    display: flexbox;
+}
+
+#wemmbuphoto{
+        size: ;
+    width: auto;
+    height: auto;
+    padding:  10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    border-radius: 2%;
+    background-color: magenta;
+    display: flexbox;
+
+}
+
+#eggname h2 {
+  width:50%;
+  border-radius: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 12px;
+  padding: 15px;
+  background-color: cornsilk;
+  display: flexbox;
+
+}
+
+#wemmbuname h2 {
+  width:50%;
+  border-radius: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 12px;
+  padding: 15px;
+  background-color: magenta;
+  display: flexbox;
+
+}
